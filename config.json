@@ -1,0 +1,201 @@
+{
+    "fr-FR": {
+        "styles": {
+            "bg": "#000001",
+            "lang-select-color": "#222829",
+            "bg-light": "#000001",
+            "welcome-bonus-bg": "#000001",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#0f0f0f",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#282929",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#CD2D26",
+            "yellow": "#c1a544",
+            "yellow-button": "#CD2D26",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#000001",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#CD2D26",
+            "faq-label": "#000001",
+            "bg-footer": "#000001",
+            "copyright": "#e7e7d5",
+            "starColor": "#c1a544",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino de Dieppe",
+            "title": "Casino de Dieppe : machines à sous, roulette, blackjack, restaurant et événements",
+            "description": "Découvrez le Casino de Dieppe : machines à sous, roulette électronique et traditionnelle, blackjack et formats poker. Profitez d’une soirée complète avec restaurant panoramique, bar et programmation de spectacles et soirées à thème. Une expérience idéale pour combiner promenade en bord de mer, divertissement et jeux au même endroit.",
+            "canonical": "casinodieppe-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1350",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casinodieppe-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1351",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1352"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1363",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino de Dieppe Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "hero": {
+            "title": "Casino de Dieppe — jeux, spectacles et détente face à la mer",
+            "textDesktop": "Offre de bienvenue exclusive de",
+            "textMobile": "Offre de bienvenue exclusive de",
+            "playGame": "Lancer la partie",
+            "claimBonus": "Réclamer le bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1358",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": -3,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1359",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 0,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Activer le bonus",
+            "title": "Top casinos",
+            "allCasino": "Tous les casinos",
+            "welcomeBonusText": "Bonus de bienvenue"
+        },
+        "bonusDetails": {
+            "title": "Détails du bonus",
+            "getBonusButtonText": "Obtenir le bonus",
+            "maximumAmountText": "Montant maximum",
+            "wagerText": "Wager",
+            "bonusCodeText": "Code promo",
+            "casino": "Casino",
+            "bonuses": "Bonus",
+            "rate": "Note",
+            "freeSpins": "Free Spins",
+            "moreInfo": "Plus d'infos",
+            "get": "Obtenir",
+            "refresh": "Actualiser"
+        },
+        "advantages": {
+            "title": "Avantages",
+            "advantagesBeforeText": "Le Casino de Dieppe séduit par son ambiance balnéaire et son espace de jeux varié. ",
+            "items": [
+                "Vue panoramique sur la mer et la promenade",
+                "Horaires pratiques jusqu’à tard dans la nuit",
+                "Machines à sous avec jackpots progressifs attractifs",
+                "Roulettes électroniques pour des parties rapides",
+                "Tables classiques : blackjack, roulette, poker",
+                "Offres de jeu : freebets, matchs, tirages gagnants",
+                "Carte club : points, cadeaux, bonus personnalisés"
+            ],
+            "advantagesAfterText": "On peut enchaîner restaurant, machines, tables et spectacle sans changer de lieu. L’expérience est fluide, confortable, et pensée autant pour une sortie spontanée que pour une soirée complète.",
+            "knowMore": "En savoir plus",
+            "appTitle": "Casino de Dieppe App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1360",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino de Dieppe App",
+            "mobileGooglePlayImageTitle": "Casino de Dieppe App",
+            "mobileIosImageTitle": "Casino de Dieppe App"
+        },
+        "games": {
+            "playNowText": "Jouer maintenant",
+            "title": "Jeux populaires",
+            "allGames": "Tous les jeux"
+        },
+        "about": {
+            "history": {
+                "title": "À propos Casino de Dieppe",
+                "description1": "Le casino se distingue par sa vue mer et une soirée “tout‑en‑un” : jeux, restaurant et spectacles au même endroit. L’offre est équilibrée entre machines, jeux électroniques et tables traditionnelles.\n\n",
+                "items": [
+                    "Gains jusqu’à 10 000 € sur jackpots événementiels.",
+                    "Crédits bonus jusqu’à 30 € sur carte joueur.",
+                    "Tickets jusqu’à 5 000 € en tournois machines."
+                ],
+                "description2": "Le Casino de Dieppe est une adresse idéale pour une soirée animée au bord de la mer, mêlant jeux, confort et divertissement. L’ambiance y est à la fois balnéaire et énergique, parfaite pour passer de la promenade aux tables sans rupture. L’espace de jeux convient aux débutants comme aux joueurs réguliers, avec un rythme qui s’adapte à chacun. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1361",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Les salles sont pensées pour circuler facilement et varier les plaisirs au fil de la soirée. Les amateurs de tradition apprécient les jeux de table et leur convivialité. Ceux qui aiment les parties rapides se tournent volontiers vers les solutions électroniques. Entre deux sessions, on profite volontiers d’un bar ou d’un restaurant avec vue. La programmation d’animations donne un vrai relief au séjour. Le service met l’accent sur l’accueil et la tranquillité des visiteurs. Au final, l’expérience propose un équilibre agréable entre jeu, gastronomie et spectacle."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino de Dieppe : ambiance bord de mer, jeux et soirées spectacle",
+                "description": "<p>\nLe Casino de Dieppe accueille dans une atmosphère balnéaire, avec un confort moderne, une lumière soignée et une vraie sensation de sortie festive, surtout le soir. Le style reste dans une élégance européenne accessible, à la fois sobre et agréable, sans excès. Les espaces laissent respirer, ce qui permet de jouer tranquillement tout en profitant d’une énergie collective. L’ambiance convient aussi bien à une visite calme qu’à une soirée entre amis. Le contraste entre l’extérieur marin et le cocon intérieur fait partie du charme.\n\n<\/p>\n<br>\n\n\n<p>\nCôté horaires, l’établissement est pensé pour les rythmes tardifs : l’ouverture se fait généralement le matin et la fermeture intervient très tard dans la nuit, avec un prolongement fréquent le week‑end. Ce fonctionnement est idéal pour ceux qui arrivent après un dîner ou une animation. Certaines zones peuvent suivre un démarrage progressif : les formats rapides sont souvent disponibles plus tôt, tandis que les tables prennent plus d’ampleur en soirée. En période de fêtes ou d’événements, les horaires peuvent évoluer. Beaucoup de visiteurs aiment organiser leur sortie en fonction de la programmation du jour.\n\n<\/p>\n<br>\n<p>\nLes bars jouent un rôle central pour faire des pauses entre deux sessions : café, apéritif, cocktail, chacun trouve son rythme. On apprécie la rapidité du service et le fait de rester dans le même univers sans “couper” la soirée. Le soir, l’ambiance devient volontiers lounge, avec une musique douce et une lumière plus intime. C’est aussi un point de rendez‑vous naturel pour les groupes. Ces temps de respiration donnent un vrai équilibre à l’expérience.\n\n<\/p>\n<br>\n<p>\nL’hôtel rattaché au complexe constitue une option confortable pour prolonger le séjour et éviter les contraintes de retour tardif. L’idée est simple : dormir sur place, profiter de la plage, de la promenade et du centre à quelques pas. C’est un format “tout à proximité” : jeux, restauration, balades, et détente. Après un spectacle ou une longue soirée, la proximité de la chambre devient un avantage concret. Pour un week‑end, ce scénario offre un maximum de confort.\n\n<\/p>\n<br>\n<p>\nLes événements et divertissements donnent au lieu une dimension plus large qu’un simple espace de jeu : soirées à thème, animations, spectacles et temps forts saisonniers. La présence d’une salle de spectacle renforce l’identité culturelle du complexe et attire un public varié. Beaucoup de visiteurs construisent leur soirée autour d’un spectacle, puis prolongent avec le jeu et un moment au restaurant. Cette complémentarité rend l’expérience plus riche. Pour les voyageurs, c’est un gain de temps et de simplicité.\n\n<\/p>\n<br>\n<p>\nLes mécaniques de bonus et de fidélité reposent généralement sur une carte joueur : points, offres personnalisées, cadeaux et invitations. Cela valorise les habitués tout en restant simple à utiliser. Les avantages peuvent aussi toucher l’univers “hors jeu”, comme des attentions au bar ou des accès privilégiés à certains événements. L’objectif est de donner envie de revenir et de varier les plaisirs d’une visite à l’autre. Au final, le Casino de Dieppe se vit comme un véritable centre de sortie.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nService, paiements et gains au Casino de Dieppe : mode d’emploi\n<\/h3>\n\n<p>\nLe personnel du Casino de Dieppe travaille généralement avec une approche professionnelle : accueil, efficacité, et priorité à la sécurité. À l’entrée comme dans les salles, l’équipe oriente, explique les zones, et accompagne volontiers pour créer une carte joueur. Les débutants reçoivent souvent une aide simple : choix des mises, compréhension des écrans, règles essentielles. Aux tables, les croupiers gardent un rythme clair, appliquent les règles et veillent au respect de tous. Aux heures de pointe, l’ambiance s’accélère, mais l’organisation reste lisible.\n<\/p>\n<br>\n\n\n<p>\nLa langue principale est le français, et l’anglais est souvent possible pour les échanges courants, notamment à l’accueil, à la caisse, au restaurant ou au bar. Même sans vocabulaire technique, on peut communiquer facilement grâce aux termes simples sur les mises, les jetons et l’encaissement. Les règles clés (âge, pièce d’identité, comportement) sont expliquées de façon directe. En cas de question ou de désaccord, l’équipe s’appuie sur les procédures internes et les dispositifs de sécurité. Cela apporte une vraie tranquillité d’esprit.\n\n<\/p>\n<br>\n<p>\nLa devise utilisée est l’euro, et la plupart des paiements s’organisent autour de la caisse et des terminaux. Les moyens de paiement courants incluent généralement espèces et cartes bancaires, avec les réseaux les plus utilisés, et parfois des solutions complémentaires selon les opérations. Le restaurant et le bar disposent souvent de paiements simples et rapides, tandis que la caisse gère l’échange des jetons et les formalités. Pour le sans‑contact ou le partage d’addition, la résolution se fait fréquemment sur place. Conserver les justificatifs est conseillé en cas de montants importants.\n\n<\/p>\n<br>\n<p>\nLes distributeurs et le retrait d’espèces sont souvent placés à proximité pour éviter de quitter le site longtemps. Pour la monnaie et les petits montants, la caisse peut faciliter les échanges et fournir des coupures adaptées. Un bureau de change complet est moins fréquent, ce qui rend utile d’arriver avec des euros ou une carte. En cas de besoin, le personnel indique les solutions disponibles en ville. Il est prudent de vérifier à l’avance les plafonds bancaires et les frais de retrait.\n\n<\/p>\n<br>\n<p>\nL’encaissement des gains se fait via la caisse : conversion des jetons et des justificatifs machines en espèces, ou organisation d’un règlement dématérialisé si le montant est élevé. Selon la somme, une pièce d’identité et certaines informations peuvent être demandées pour respecter les procédures financières. Pour les gains importants, mieux vaut se renseigner sur les documents nécessaires afin d’éviter l’attente en fin de soirée. Le délai dépend généralement de l’affluence et du mode de paiement choisi. Pour le transport de grosses sommes, le virement peut être plus confortable.\n\n<\/p>\n<br>\n<p>\nSur la fiscalité, la règle pratique à retenir est que les gains de jeux pour les particuliers ne sont généralement pas imposés comme un revenu courant, mais cela peut dépendre du statut du joueur, de la résidence fiscale et des obligations de déclaration dans le pays d’origine. Les non‑résidents doivent surtout penser aux règles de leur propre administration. En cas de gains très élevés ou de pratique régulière, une vérification auprès d’un conseiller fiscal est recommandée. Le casino applique, de son côté, des procédures d’identification et de contrôle financier. C’est une pratique standard de protection et de conformité.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRègles de visite du Casino de Dieppe : tenue, accès et infos pratiques\n<\/h3>\n\n<p>\nLe Casino de Dieppe fonctionne avec des règles d’accès claires afin de garantir confort et sécurité. L’entrée est réservée aux majeurs, et une pièce d’identité est généralement demandée à l’arrivée ou sur demande. La tenue doit être soignée : l’esprit est plutôt smart casual, surtout en soirée. Un comportement calme et respectueux est essentiel, car le personnel veille à l’ambiance générale. Les photos et vidéos sont souvent limitées dans les zones de jeux pour préserver la confidentialité. L’alcool est possible dans une logique de responsabilité, mais l’ivresse manifeste peut entraîner un refus d’entrée. Des principes de jeu responsable existent et l’on peut demander de l’aide si nécessaire. En période d’affluence, des contrôles de sécurité peuvent être appliqués. Les espaces sont structurés pour alterner jeux, bar, restauration et événements. Pour un spectacle, arriver en avance facilite les contrôles et l’installation. En voiture, anticiper le stationnement est utile, et sans voiture, les accès via le centre et le front de mer sont pratiques.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTenue (dress‑code)\n<\/h4>\n\n <ul>\n            <li>• \nTenue soignée, éviter l’apparence “plage” (tongs, éléments de bain).\n\n<\/li>\n            <li>• \nLe soir, privilégier le smart casual : chaussures propres, haut élégant.\n\n<\/li>\n            <li>• \nLa tenue trop sportive peut être refusée selon le contexte.\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’accès\n\n\n<\/h4>\n\n <ul>\n            <li>• \n18+ avec pièce d’identité (passeport\/ID\/permis selon les règles).\n\n<\/li>\n            <li>• \nEntrée parfois libre, mais l’admission reste soumise au respect du règlement.\n\n<\/li>\n            <li>• \nDans certaines zones (caisse, tables), un second contrôle peut arriver.\n\n\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nInterdits et limitations\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMineurs interdits, même accompagnés.\n\n<\/li>\n            <li>• \nPhoto\/vidéo souvent limitées en salles de jeux.\n\n<\/li>\n            <li>• \nComportements agressifs, perturbateurs ou non conformes au jeu interdits.\n\n<\/li>\n            <li>• \nIvresse importante et substances interdites : refus ou exclusion.\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStationnement et accès\n\n\n<\/h4>\n\n <ul>\n            <li>• \nArriver tôt les soirs d’événements et le week‑end.\n\n<\/li>\n            <li>• \nRepère : front de mer et rues centrales proches de la mer, puis accès à pied.\n\n<\/li>\n            <li>• \nEn taxi, dépose proche de la promenade pour une entrée rapide.\n\n<\/li>\n\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nProgramme de fidélité du Casino de Dieppe : paliers, points et privilèges\n<\/h3>\n\n<p>\nLe programme de fidélité du Casino de Dieppe repose généralement sur une carte joueur qui transforme les visites en avantages concrets. L’idée est simple : votre activité est prise en compte et vous accédez à des points, des offres et des privilèges personnalisés. La carte agit comme une passerelle vers des attentions variées, du petit bonus d’accueil à des invitations plus exclusives. Pour un nouveau visiteur, le bénéfice est immédiat : l’inscription est rapide et un geste de bienvenue est souvent proposé selon la période. Pour les habitués, les niveaux deviennent centraux car ils augmentent la valeur des points et ouvrent des avantages supplémentaires. Le programme peut englober l’univers des jeux mais aussi la restauration, le bar et certaines animations, ce qui le rend utile même avec une pratique modérée. Des journées à points doublés et des coupons ciblés sont fréquents dans ce type de dispositif. On apprécie aussi la lisibilité : solde, conditions et offres actives sont généralement faciles à suivre. Les paliers encouragent le retour, car chaque statut apporte un gain plus perceptible. Pour une soirée complète (restaurant + spectacle + jeux), l’intérêt augmente puisque l’accumulation s’accélère. Au final, la carte donne une dimension “avantage” à chaque visite.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’inscription\n<\/h4>\n\n <ul>\n            <li>• \n18+ et pièce d’identité pour établir la carte.\n\n<\/li>\n            <li>• \nFiche client avec informations de base.\n\n<\/li>\n            <li>• \nAcceptation du règlement (points, validité, expiration).\n\n<\/li>\n            <li>• \nRemise de la carte sur place, souvent gratuite.\n\n<\/li>\n\t    <li>• \nBonus de bienvenue : par exemple 5–10 € de crédits ou un coupon boisson (selon période).\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNiveaux et obtention\n<\/h4>\n\n <ul>\n            <li>• \nBronze (Départ) — carte créée, premiers passages ; cumul de base, bonus d’accueil parfois 10 €.\n\n<\/li>\n            <li>• \nSilver (Habitué) — visites régulières ; coefficient plus avantageux, par exemple +25% de points.\n\n<\/li>\n            <li>• \nGold (Fidèle) — activité soutenue ; coupons plus intéressants, par exemple 15 € jeux\/restauration.\n\n<\/li>\n            <li>• \nPlatinum (Premium) — niveau élevé ; offres personnalisées et accès privilégié, par exemple 30 € à l’anniversaire.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonus et privilèges\n<\/h4>\n\n <ul>\n            <li>• \nCrédits de jeu : 5–30 € — soutien sur machines\/jeux électroniques en période promo.\n\n<\/li>\n            <li>• \nCoupons restaurant\/bar : 5–20 € — réduction ou avantage sur place.\n\n<\/li>\n            <li>• \nJournées x2 points — cumul accéléré à des créneaux définis.\n\n<\/li>\n            <li>• \nAnniversaire : 10–30 € — cadeau ou coupon dédié si carte active.\n\n<\/li>\n\t    <li>• \nInvitations événements — priorité ou conditions préférentielles.\n\n<\/li>\n\t    <li>• \nOffres personnalisées — coupons alignés sur vos habitudes.\n<\/li>\n        <\/ul><br>\n\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Fournisseurs de logiciels"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Divertissement et jeux au Casino de Dieppe",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonus et offres spéciales du Casino de Dieppe : jeux, gains et temps forts saisonniers\n<\/h3>\n\n<p>\nAu Casino de Dieppe, en dehors de la carte club, on trouve régulièrement des opérations promotionnelles qui rendent le jeu et les sorties plus avantageux. Ces offres sont souvent liées à certains jours de la semaine, aux vacances, ou aux périodes festives. Les machines à sous et les jeux électroniques sont généralement au cœur des promotions, car les récompenses peuvent y être rapides et faciles à activer. Les tables traditionnelles profitent parfois d’animations dédiées, comme des offres en jetons ou des formats de mini‑tournois. La partie divertissement s’accompagne aussi de “packs” combinant restauration, spectacle et jeu. Lors des périodes saisonnières, les opérations se tournent volontiers vers des jackpots événementiels et des soirées à thème. Les bars peuvent proposer des happy hours pour compléter l’expérience sans quitter le complexe. Les groupes bénéficient parfois d’offres simples, avec une valeur fixe sur une consommation ou une formule. Pendant certaines animations, on peut gagner des billets‑cadeaux ou des lots en participant à un quiz, un bingo ou une soirée thématique. Le principe reste généralement clair : inscription sur place, coupon ou crédit, conditions faciles, puis participation au tirage. Même un passage court peut alors devenir une sortie “avec bonus”.\n\n<\/p>\n<br>\n\n\n <ul>\n            <li>• \nBonus de bienvenue machines : 10–20 € — crédits\/bon d’essai lors d’une opération d’accueil.\n\n<\/li>\n            <li>• \nFree spins : 20–50 tours — attribués après un seuil d’activité ou via un pack promo.\n\n<\/li>\n            <li>• \nJours jackpot : 2 000–10 000 € — fonds événementiel ou tirages spéciaux selon calendrier.\n\n<\/li>\n            <li>• \nTournois machines : 500–5 000 € — classement sur une durée donnée, lots aux meilleurs scores.\n\n<\/li>\n\t    <li>• \nTirage “ticket gagnant” : 50–500 € — participation via coupon remis en salle.\n\n<\/li>\n\t    <li>• \nBonus tables : 10–50 € en jetons — soutien promo sur certains créneaux (selon conditions).\n\n<\/li>\n\t    <li>• \nPack “Dîner + Jeu” : avantage 10–25 € — économie fixe ou bon de jeu associé à une formule.\n\n<\/li>\n\t    <li>• \nPack “Spectacle + Jeu” : bonus 10–30 € — bon machines\/tables avec une soirée événementielle.\n\n<\/li>\n\t    <li>• \nHappy hours bar : -10% à -20% — créneaux à prix doux sur une sélection.\n<\/li>\n\t    <li>• \nOffres saisonnières : cadeaux 5–50 € — coupons, crédits ou bons bar\/restaurant lors des temps forts.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJeux populaires du Casino de Dieppe : machines, roulette et tables traditionnelles\n<\/h3>\n\n<p>\nL’offre de jeux du Casino de Dieppe s’articule généralement autour de deux univers complémentaires : les machines et les tables, ce qui permet à chacun de trouver son format. Les machines à sous plaisent pour leur accessibilité : on choisit sa mise et l’on joue immédiatement, sans apprentissage complexe. Les jeux électroniques séduisent par des manches rapides et une gestion de budget plus simple, idéale pour un rythme dynamique. Les tables, elles, donnent la “vraie” ambiance casino avec ses gestes, ses annonces et l’interaction avec le croupier. La roulette reste une star grâce à des règles faciles à comprendre et de nombreuses façons de miser. Le blackjack attire les joueurs qui aiment décider et optimiser, car le choix des actions influence l’expérience. Les variantes de poker intéressent ceux qui recherchent un côté plus compétitif et une sensation de challenge. Pour débuter, beaucoup préfèrent la roulette électronique et les petites mises sur machines, puis osent les tables au fil de la soirée. Les joueurs réguliers alternent souvent : sessions rapides sur machines, puis tables quand l’ambiance devient plus animée. La variété évite la monotonie et permet de suivre l’envie du moment. Au final, les machines apportent l’énergie, la roulette l’adrénaline de l’attente, et les tables la convivialité.\n\n<\/p>\n<br>\n\n\n<ul>\n            <li>• \nMachines à sous — classiques et vidéo, avec bonus, free spins et mécaniques type jackpot selon les titres.\n\n<\/li>\n            <li>• \nRoulette (anglaise) — format traditionnel très apprécié, mises sur numéros, couleurs et zones.\n\n<\/li>\n            <li>• \nRoulette électronique — rythme rapide, interface simple, parfaite pour démarrer et contrôler les mises.\n\n<\/li>\n            <li>• \nBlackjack — jeu de décisions (tirer, rester, doubler), apprécié pour son aspect stratégique.\n\n<\/li>\n\t    <li>• \nUltimate Poker — poker contre le croupier, dynamique et facile à suivre.\n\n<\/li>\n\t    <li>• \nTerminaux\/jeux électroniques — format hybride pour jouer vite et à son propre rythme.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMises au Casino de Dieppe : repères de minimums et maximums\n<\/h3>\n\n<p> \nLes limites de mises permettent de choisir un rythme confortable : petites mises pour jouer sereinement, ou plafonds plus élevés sur les tables pour une expérience plus “casino”. Au Casino de Dieppe, on retrouve généralement des mises accessibles sur machines et jeux électroniques, ainsi que des limites plus importantes sur les tables traditionnelles. Les valeurs ci‑dessous servent de repères pratiques, souvent constatés dans les casinos terrestres, afin d’estimer un budget. Les limites exactes peuvent varier selon le jour, l’affluence et la table ou la machine sélectionnée.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#CD2D26; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Jeu \/ Format<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise minimale<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise maximale<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Machines à sous<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,01 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 € <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,20 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">50 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette (anglaise), table<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack, table<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Poker, table<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">200 €<\/td>\n                <\/tr>\n     <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker (cash), buy‑in<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">50 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1 000 €<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nÉvénements, spectacles et divertissements au Casino de Dieppe : scène du soir et ambiance week‑end\n<\/h3>\n\n<p>\nLe Casino de Dieppe se vit comme un lieu de sortie complet où le jeu n’est qu’une partie de l’expérience, complétée par une scène, des soirées à thème et une ambiance animée. Son atout majeur est la programmation : humour, concerts, spectacles et productions en tournée attirent un public bien au‑delà des joueurs. La soirée se construit souvent autour d’un temps fort : spectacle d’abord, puis bar et jeux, et enfin un moment de restauration ou une dernière session. Ce déroulé est pratique pour profiter d’une vraie sortie sans multiplier les déplacements.\n\n<\/p>\n<br>\n\n\n<p>\nÀ côté des grands rendez‑vous, des animations plus régulières enrichissent l’agenda : soirées thématiques, formats interactifs, saisons festives et moments spéciaux. Selon les périodes, on peut retrouver des soirées bingo, des quiz, des “nuits événementielles” et des opérations avec tirages de lots. L’intérêt, c’est la spontanéité : même sans plan précis, on trouve souvent un prétexte pour rester, grâce à l’animation et à l’ambiance du bar. Beaucoup apprécient cette combinaison entre l’énergie des jeux et la légèreté d’une soirée festive.\n\n<\/p>\n<br>\n<p>\nLa dimension “club” se présente le plus souvent comme une ambiance nocturne en espace lounge plutôt qu’un club indépendant : DJ sets, moments dansants, week‑ends à thème, musique plus présente et accent sur le bar. Ce format convient à ceux qui veulent prolonger tard et garder une atmosphère de fête, tout en restant dans le même complexe. Lors des pics saisonniers, la programmation se densifie généralement : plus d’animations, plus de fréquentation et davantage d’occasions de sortie. L’organisation conserve en général une bonne lisibilité, avec des zones et des horaires qui permettent de profiter sans confusion.\n\n<\/p>\n<br>\n<p>\nEnfin, le lieu se prête bien aux formats “groupe” et aux privatisations : événements d’entreprise, célébrations, banquets combinant restauration et divertissement. Cela attire ceux qui recherchent une solution tout‑en‑un, avec un cadre vivant et des options variées. Pour maximiser le confort, réserver spectacle et restaurant à l’avance est souvent une bonne idée. Au final, le Casino de Dieppe fonctionne comme un centre de soirée où l’on alterne scène, bar, jeux et temps forts.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDivertissements et événements \n<\/h4>\n\n <ul>\n            <li>• \nThéâtre & spectacles en tournée — comédies, shows et rendez‑vous scéniques.\n\n<\/li>\n            <li>• \nConcerts & soirées musicales — programmes musicaux selon saison.\n\n<\/li>\n            <li>• \nSoirées “dîner + spectacle” — formule idéale pour une sortie complète.\n\n<\/li>\n            <li>• \nWeek‑ends à thème — soirées festives, saisons, événements stylisés.\n\n<\/li>\n\t    <li>• \nDJ sets & ambiance dansante — format lounge tardif, esprit “night”.\n\n<\/li>\n\t    <li>• \nBingo & jeux participatifs — animations conviviales avec participation.\n\n<\/li>\n\t    <li>• \nQuiz & soirées interactives — activités ludiques, parfois avec lots.\n\n<\/li>\n\t    <li>• \nÉvénements privés — entreprises, banquets, célébrations sur mesure.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRestaurants, bars et détente au Casino de Dieppe : vue panoramique et week‑end confortable\n<\/h3>\n\n<p>\nLa détente au Casino de Dieppe repose souvent sur l’idée “jeux + gastronomie + ambiance”, ce qui fait des espaces bar et restaurant un élément central de l’expérience. Le restaurant panoramique permet de donner un rythme plus posé à la sortie : dîner d’abord, puis jeux selon l’envie. Ce scénario convient particulièrement aux couples et aux groupes où tout le monde ne joue pas avec la même intensité. Les bars ajoutent de la souplesse : pause courte entre machines et tables, ou début de soirée avec un cocktail avant de se lancer. Le soir, l’atmosphère devient plus lounge, ce qui colle parfaitement aux horaires tardifs.\n\n<\/p>\n<br>\n\n\n<p>\nCôté cuisine, l’approche met souvent l’accent sur des plats de saison et des saveurs accessibles, pour que le restaurant soit aussi pertinent pour une célébration que pour un dîner calme après la promenade. La cadence de service est importante : les visiteurs n’aiment pas perdre du temps, et le format s’adapte généralement au spectacle ou au jeu. On retrouve souvent des formules simples, faciles à partager à plusieurs. Pour une soirée événementielle, dîner avant la représentation est l’une des options les plus confortables. Après le spectacle, le bar permet de prolonger sans précipitation.\n\n<\/p>\n<br>\n<p>\nLa dimension hôtel transforme la visite en mini‑séjour : pas de trajet tardif à gérer, on peut rester jusqu’au bout de la soirée. Le matin, la promenade et la mer complètent naturellement l’expérience, puis l’on revient au confort du complexe. Pour un week‑end, c’est un vrai “tout‑en‑un” : divertissement, restauration, et repos au même endroit. Ce confort convient autant aux joueurs qu’aux visiteurs venus pour l’ambiance. Au final, le Casino de Dieppe peut devenir une destination de sortie et de séjour.\n\n<\/p>\n<br>\n<p>\nL’avantage majeur est la liberté de rythme : une session de jeu, une pause gourmande, un spectacle, puis un verre, selon l’humeur. Ce format modulaire fonctionne très bien en groupe, car chacun compose sa soirée. La proximité de la mer renforce le côté “escapade” et rend même un simple dîner plus spécial. C’est ce mélange de goût, de vue et d’énergie nocturne qui marque les visiteurs.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLieux de détente\n<\/h4>\n\n <ul>\n            <li>• \nRestaurant panoramique Le Trèfle — dîner avec vue, idéal avant\/après jeux et spectacles.\n\n<\/li>\n            <li>• \nBar \/ espace lounge du casino — cocktails, apéritifs, pauses entre sessions.\n\n<\/li>\n            <li>• \nBar côté hôtel — ambiance plus calme, parfait en fin de soirée.\n\n<\/li>\n            <li>• \nHôtel (hébergement lié au complexe) — solution confortable pour week‑end et soirées tardives.\n<\/li>\n\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": " FAQ",
+            "items": [
+                {
+                    "title": "Faut‑il réserver une table de jeu à l’avance ?",
+                    "answer": "Généralement non : la majorité des visiteurs viennent sans réservation. Pour une table précise ou un groupe, anticiper peut être utile les soirs d’affluence.\n\n\n"
+                },
+                {
+                    "title": "Peut‑on venir seul et passer une bonne soirée ?",
+                    "answer": "Oui, les machines et jeux électroniques sont parfaits en solo, et l’ambiance bar\/restaurant reste agréable sans obligation d’être accompagné.\n\n\n"
+                },
+                {
+                    "title": "Que faire en cas d’objet perdu ?",
+                    "answer": "Il faut prévenir immédiatement l’équipe en salle ou l’accueil. Les établissements disposent habituellement d’une procédure “objets trouvés”.\n\n\n"
+                },
+                {
+                    "title": "Existe‑t‑il des outils de jeu responsable ?",
+                    "answer": "Souvent oui : limites personnelles, informations d’accompagnement et dispositifs de contrôle. Le personnel indique généralement la marche à suivre.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1362",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino de Dieppe"
+        }
+    },
+    "langs": [
+        {
+            "code": "fr-FR",
+            "name": "Французский",
+            "isDefault": true
+        }
+    ]
+}
